@@ -5,9 +5,7 @@
 
 <SideNav bind:isOpen={isSideNavOpen}>
   <SideNavItems>
-    <SideNavLink text="Link 1" />
-    <SideNavLink text="Link 2" />
-    <SideNavLink text="Link 3" />
-    <SideNavLink text="Link 4" />
+    <SideNavLink text="Map Projections" />
+    <SideNavLink text="Globe" />
   </SideNavItems>
 </SideNav>
